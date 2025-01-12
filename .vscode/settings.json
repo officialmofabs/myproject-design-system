@@ -1,5 +1,5 @@
 {
-    "cmake.sourceDirectory": "/home/ecampusdev/project-design-system-ms/src/cpp-mariadb/test-project",
+    "cmake.sourceDirectory": "/workspaces/project-design-system-ms/src/cpp/test-project",
     "azureFunctions.deploySubpath": "src\\azure-static-web-apps\\test-project\\api",
     "azureFunctions.postDeployTask": "npm install (functions)",
     "azureFunctions.projectLanguage": "JavaScript",
@@ -37,5 +37,14 @@
     "application.experimental.rendererProfiling": true,
     "ipynb.experimental.serialization": true,
     "dotnetAcquisitionExtension.enablePreviewFeatures": true,
-    "dotnetAcquisitionExtension.allowInvalidPaths": true
+    "dotnetAcquisitionExtension.allowInvalidPaths": true,
+    "workspace-manager.includeGlobPattern": [
+        "officialmofabs/project-design-system-ms/.vscode/workspace",
+        "officialmofabs/project-design-system-ms/.vscode/settings.workspace.json",
+        "officialmofabs/project-design-system-ms/.vscode/workspace/project-design-system-m.code-workspace",
+        "officialmofabs/project-design-system-ms/.vscode/workspace/project-design-system-ms.code-workspace",
+        "/workspaces/project-design-system-ms/.vscode/workspace",
+        "/workspaces/project-design-system-ms/.vscode/settings.workspace.json",
+        "/workspaces/project-design-system-ms/.vscode/launch.json"
+    ]
 }

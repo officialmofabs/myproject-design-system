@@ -19,7 +19,7 @@
 			"extensions": [
 				"ms-azuretools.vscode-docker",
 				"dbaeumer.vscode-eslint",
-				"ms-azuretools.vscode-azurefunctions"
+				"ms-azuretools.vscode-azurefunctions",
 				"rogalmic.bash-debug",
 				"mads-hartmann.bash-ide-vscode",
 				"streetsidesoftware.code-spell-checker",
@@ -45,7 +45,11 @@
 				"ms-vscode.vscode-typescript-next",
 				"loiane.ts-extension-pack",
 				"Vue.volar",
-				"tfenster.remote-dev-shortcut"
+				"tfenster.remote-dev-shortcut",
+				"ms-azuretools.vscode-azure-github-copilot",
+				"TeamsDevApp.ms-teams-vscode-extension",
+				"mindaro.mindaro",
+				"m365pnp.viva-connections-toolkit"
 			]
 		}
 	},
